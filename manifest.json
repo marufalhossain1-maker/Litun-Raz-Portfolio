@@ -1,0 +1,28 @@
+
+{
+  "id": "/",
+  "name": "Litun Raz | Personal Website",
+  "short_name": "Litun Raz",
+  "description": "The personal website of Litun Raz, a student, football enthusiast, and nature observer from Bogura, Bangladesh.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0b0b",
+  "theme_color": "#0b0b0b",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
